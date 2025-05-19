@@ -1,0 +1,7 @@
+[
+  { "fecha": "19-05", "evento": "Día de la escarapela" },
+  { "fecha": "25-05", "evento": "Revolución de Mayo" },
+  { "fecha": "20-06", "evento": "Día de la Bandera" },
+  { "fecha": "09-07", "evento": "Día de la Independencia" }
+  // Agrega cientos más aquí...
+]

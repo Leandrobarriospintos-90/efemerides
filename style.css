@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+}
+
+h1 {
+  color: #0066cc;
+}
+
+#resultados {
+  margin-top: 20px;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ddd;
+}
