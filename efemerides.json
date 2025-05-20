@@ -1,6 +1,15 @@
 [
-  { "fecha": "18-05-2025", "evento": "Día de la escarapela" },
-  { "fecha": "25-05-2025", "evento": "Revolución de Mayo" },
-  { "fecha": "20-06-2025", "evento": "Día de la Bandera" },
-  { "fecha": "09-07-2025", "evento": "Día de la Independencia" }
+  { "fecha": "01-01", "evento": "Año Nuevo" },
+  { "fecha": "24-03", "evento": "Día Nacional de la Memoria por la Verdad y la Justicia" },
+  { "fecha": "02-04", "evento": "Día del Veterano y de los Caídos en la Guerra de Malvinas" },
+  { "fecha": "01-05", "evento": "Día del Trabajador" },
+  { "fecha": "25-05", "evento": "Día de la Revolución de Mayo" },
+  { "fecha": "20-06", "evento": "Día de la Bandera" },
+  { "fecha": "09-07", "evento": "Día de la Independencia" },
+  { "fecha": "17-08", "evento": "Paso a la Inmortalidad del Gral. San Martín" },
+  { "fecha": "11-09", "evento": "Día del Maestro" },
+  { "fecha": "12-10", "evento": "Día del Respeto a la Diversidad Cultural" },
+  { "fecha": "20-11", "evento": "Día de la Soberanía Nacional" },
+  { "fecha": "08-12", "evento": "Día de la Inmaculada Concepción de María" },
+  { "fecha": "25-12", "evento": "Navidad" }
 ]
