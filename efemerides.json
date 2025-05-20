@@ -1,15 +1,158 @@
 [
-  { "fetch": "01-01", "evento": "Año Nuevo" },
-  { "fecha": "24-03", "evento": "Día Nacional de la Memoria por la Verdad y la Justicia" },
-  { "fecha": "02-04", "evento": "Día del Veterano y de los Caídos en la Guerra de Malvinas" },
-  { "fecha": "01-05", "evento": "Día del Trabajador" },
-  { "fecha": "25-05", "evento": "Día de la Revolución de Mayo" },
-  { "fecha": "20-06", "evento": "Día de la Bandera" },
-  { "fecha": "09-07", "evento": "Día de la Independencia" },
-  { "fecha": "17-08", "evento": "Paso a la Inmortalidad del Gral. San Martín" },
-  { "fecha": "11-09", "evento": "Día del Maestro" },
-  { "fecha": "12-10", "evento": "Día del Respeto a la Diversidad Cultural" },
-  { "fecha": "20-11", "evento": "Día de la Soberanía Nacional" },
-  { "fecha": "08-12", "evento": "Día de la Inmaculada Concepción de María" },
-  { "fecha": "25-12", "evento": "Navidad" }
+  {
+    "fecha": "01-01",
+    "evento": "Año Nuevo"
+  },
+  {
+    "fecha": "06-01",
+    "evento": "Día de Reyes"
+  },
+  {
+    "fecha": "11-02",
+    "evento": "Día Internacional de la Mujer y la Niña en la Ciencia"
+  },
+  {
+    "fecha": "24-02",
+    "evento": "Día de la Bandera de la Provincia de Buenos Aires"
+  },
+  {
+    "fecha": "08-03",
+    "evento": "Día Internacional de la Mujer"
+  },
+  {
+    "fecha": "24-03",
+    "evento": "Día Nacional de la Memoria por la Verdad y la Justicia"
+  },
+  {
+    "fecha": "02-04",
+    "evento": "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+  },
+  {
+    "fecha": "07-04",
+    "evento": "Día Mundial de la Salud"
+  },
+  {
+    "fecha": "15-04",
+    "evento": "Día Mundial del Arte"
+  },
+  {
+    "fecha": "23-04",
+    "evento": "Día Internacional del Libro"
+  },
+  {
+    "fecha": "01-05",
+    "evento": "Día del Trabajador"
+  },
+  {
+    "fecha": "03-05",
+    "evento": "Día Mundial de la Libertad de Prensa"
+  },
+  {
+    "fecha": "11-05",
+    "evento": "Día del Himno Nacional Argentino"
+  },
+  {
+    "fecha": "17-05",
+    "evento": "Día Mundial de Internet"
+  },
+  {
+    "fecha": "18-05",
+    "evento": "Día de la Escarapela"
+  },
+  {
+    "fecha": "25-05",
+    "evento": "Día de la Revolución de Mayo"
+  },
+  {
+    "fecha": "28-05",
+    "evento": "Día Nacional de los Jardines de Infantes y la Maestra Jardinera"
+  },
+  {
+    "fecha": "07-06",
+    "evento": "Día del Periodista"
+  },
+  {
+    "fecha": "17-06",
+    "evento": "Paso a la Inmortalidad del Gral. Güemes"
+  },
+  {
+    "fecha": "20-06",
+    "evento": "Día de la Bandera"
+  },
+  {
+    "fecha": "09-07",
+    "evento": "Día de la Independencia"
+  },
+  {
+    "fecha": "20-07",
+    "evento": "Día del Amigo"
+  },
+  {
+    "fecha": "26-07",
+    "evento": "Fallecimiento de Eva Perón"
+  },
+  {
+    "fecha": "17-08",
+    "evento": "Paso a la Inmortalidad del Gral. San Martín"
+  },
+  {
+    "fecha": "11-09",
+    "evento": "Día del Maestro"
+  },
+  {
+    "fecha": "13-09",
+    "evento": "Día del Bibliotecario"
+  },
+  {
+    "fecha": "21-09",
+    "evento": "Día del Estudiante y de la Primavera"
+  },
+  {
+    "fecha": "23-09",
+    "evento": "Día Nacional de los Derechos Políticos de la Mujer"
+  },
+  {
+    "fecha": "27-09",
+    "evento": "Día Nacional de la Conciencia Ambiental"
+  },
+  {
+    "fecha": "12-10",
+    "evento": "Día del Respeto a la Diversidad Cultural"
+  },
+  {
+    "fecha": "20-10",
+    "evento": "Día de la Madre (tercer domingo de octubre)"
+  },
+  {
+    "fecha": "01-11",
+    "evento": "Día de todos los santos"
+  },
+  {
+    "fecha": "10-11",
+    "evento": "Día de la Tradición"
+  },
+  {
+    "fecha": "20-11",
+    "evento": "Día de la Soberanía Nacional"
+  },
+  {
+    "fecha": "25-11",
+    "evento": "Día Internacional de la Eliminación de la Violencia contra la Mujer"
+  },
+  {
+    "fecha": "08-12",
+    "evento": "Día de la Inmaculada Concepción de María"
+  },
+  {
+    "fecha": "10-12",
+    "evento": "Día de los Derechos Humanos"
+  },
+  {
+    "fecha": "25-12",
+    "evento": "Navidad"
+  },
+  {
+    "fecha": "30-12",
+    "evento": "Tragedia de Cromañón"
+  }
 ]
