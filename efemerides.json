@@ -1,5 +1,5 @@
 [
-  { "fecha": "01-01", "evento": "Año Nuevo" },
+  { "fetch": "01-01", "evento": "Año Nuevo" },
   { "fecha": "24-03", "evento": "Día Nacional de la Memoria por la Verdad y la Justicia" },
   { "fecha": "02-04", "evento": "Día del Veterano y de los Caídos en la Guerra de Malvinas" },
   { "fecha": "01-05", "evento": "Día del Trabajador" },
