@@ -1,9 +1,11 @@
-const efemerides = [
-  { "fecha": "19-05", "evento": "Día de la Escarapela" },
-  { "fecha": "25-05", "evento": "Revolución de Mayo" },
-  { "fecha": "20-06", "evento": "Día de la Bandera" },
-  { "fecha": "09-07", "evento": "Día de la Independencia" }
-];
+let efemerides = [];
+
+fetch('efemerides.json')
+  .then(response => response.json())
+  .then(data => {
+    efemerides = data;
+  })
+  .catch(error => console.error('Error cargando efemérides:', error));
 
 function buscarEfemeride() {
   const input = document.getElementById('fechaBuscada').value;
